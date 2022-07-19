@@ -1,6 +1,7 @@
 <?php
+namespace Kirill\Edu\some;
 
-trait ToSome
+trait SomeTrait
 {
     public function some_f()
     {

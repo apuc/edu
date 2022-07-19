@@ -1,0 +1,19 @@
+{
+    "name": "kirill/edu",
+    "description": "Обучающий проект",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kirill\\Edu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kavalar",
+            "email": "apuc06@mail.ru"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
